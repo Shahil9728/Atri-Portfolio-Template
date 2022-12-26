@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;600&display=swap');body
+{
+    font-family: 'Abril Fatface';
+    font-weight: lighter;
+}
+.p-Home.TextBox143
+{
+    font-family: 'Baloo 2', cursive;
+    font-weight: 1000;
+}
+.p-Home.TextBox4,.p-Home.TextBox11,.p-Home.TextBox38,.p-Home.TextBox40,.p-Home.TextBox53,.p-Home.TextBox87,.p-Home.TextBox93,.p-Home.TextBox124
+{
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.p-Home.TextBox144,.p-Home.TextBox145,.p-Home.TextBox146,.p-Home.TextBox147,.p-Home.TextBox148,.p-Home.TextBox6,.p-Home.TextBox36,.p-Home.TextBox31,.p-Home.TextBox14,.p-Home.Div30,.p-Home.TextBox55,.p-Home.TextBox90,.p-Home.TextBox91,.p-Home.Div48,.p-Home.Div55,.p-Home.Div57,.p-Home.Div63,.p-Home.Div69,.p-Home.Div72,.p-Home.Flex68,.p-Home.Flex76,.p-Home.TextBox142,.p-Home.Flex8,.p-Home.Button12,.p-Home.Div109,.p-Home.Div106
+{
+    font-family: 'Baloo 2', cursive;
+    font-weight: 700;
+}
+.p-Home.Button12
+{
+    font-size: 16px;
+}
+.p-Home.Flex86:hover .p-Home.Image68
+{
+    transition: all 0.5s ease-in-out;
+    transform: translate(10px);
+}
+.p-Home.Flex85:hover .p-Home.Image13
+{
+    transition: all 0.5s ease-in-out;
+    transform: translate(10px);
+}
+.p-Home.Div48:hover .p-Home.Image31
+{
+    transition: all 0.5s ease-in-out;
+    transform: translate(10px,-10px);
+}
+.p-Home.Div55:hover .p-Home.Image34
+{
+    transition: all 0.5s ease-in-out;
+    transform: translate(10px,-10px);
+}
+.p-Home.Div57:hover .p-Home.Image35
+{
+    transition: all 0.5s ease-in-out;
+    transform: translate(10px,-10px);
+}
+.p-Home.Div106:hover .p-Home.Image69
+{
+    transition: all 0.5s ease-in-out;
+    transform: translate(10px,-10px);
+}
+.p-Home.Div109:hover .p-Home.Image71
+{
+    transition: all 0.5s ease-in-out;
+    transform: translate(10px,-10px);
+}
+.p-Home.Div72:hover .p-Home.Image44
+{
+    transition: all 0.5s ease-in-out;
+    transform: translate(10px,-10px);
+}
+.p-Home.TextBox144:hover {
+    color: gray;
+}
+
+.p-Home.TextBox145:hover {
+    color: gray;
+}
+
+.p-Home.TextBox146:hover {
+    color: gray;
+}
+
+.p-Home.TextBox147:hover {
+    color: gray;
+}
+
+.p-Home.TextBox148:hover {
+    color: gray;
+}
+.p-Home.Button3 {
+    box-sizing: border-box;
+    border: none;
+    position: relative;
+}
+
+.p-Home.Button3::after {
+    content: '';
+    width: 115px;
+    height: 30px;
+    left: 4px;
+    top: 11px;
+    bottom: 0;
+    margin: 0;
+    z-index: -1;
+    position: absolute;
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+}
+.p-Home.Button4
+{
+    box-sizing: border-box;
+    border: none;
+    position: relative;
+}
+.p-Home.Button4::after {
+    content: '';
+    width: 148px;
+    height: 30px;
+    left: 4px;
+    top: 11px;
+    bottom: 0;
+    margin: 0;
+    z-index: -1;
+    position: absolute;
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+}
+.carousel:hover .carousel-item
+{
+    transition: all 1s ease-in-out;
+    transform: scale(1.5,1.5);
+}
